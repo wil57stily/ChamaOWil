@@ -1,0 +1,10 @@
+{
+"name":"Chama o Wil",
+"short_name":"Chama o Wil",
+"start_url":"/",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#0B1F3A",
+"description":"Montagem de móveis, instalações e pequenos reparos.",
+"icons":[]
+}
